@@ -1,1 +1,3 @@
-# Interview-questions-for-1922
+# BK-HTML-JY-1922期班级面试题库
+<br>
+##&ensp;&ensp;&ensp;&ensp;本题库用于每次交叉模拟面试问题汇总，每次去1921班接受面试的同学，把面试题整理好，追加到BK-HTML-JY-1922期班级面试题库.md文件里，提交时在修改说明里，写上姓名
